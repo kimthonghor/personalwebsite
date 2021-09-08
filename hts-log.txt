@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Sep 2021 17:17:52 at https://trax.acrothemes.com/bootstrap-v5/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://trax.acrothemes.com/bootstrap-v5/index.html -O1 "C:\My Web Sites\Thonghor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:19:50	Warning: 	File not parsed, looks like binary: https://trax.acrothemes.com/bootstrap-v5/webfonts/fa-brands-400.woff2
+17:19:50	Warning: 	File not parsed, looks like binary: https://trax.acrothemes.com/bootstrap-v5/webfonts/fa-regular-400.woff2
+17:19:50	Warning: 	File not parsed, looks like binary: https://trax.acrothemes.com/bootstrap-v5/webfonts/fa-solid-900.woff2
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/owl.video.play.png (from https://trax.acrothemes.com/bootstrap-v5/css/owl.carousel.min.css)
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/img/cbp-sprite.png (from https://trax.acrothemes.com/bootstrap-v5/css/cubeportfolio.min.css)
+17:19:51	Warning: 	File not parsed, looks like binary: https://trax.acrothemes.com/bootstrap-v5/css/revolution/openhand.cur
+17:19:51	Warning: 	File not parsed, looks like binary: https://trax.acrothemes.com/bootstrap-v5/css/revolution/closedhand.cur
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/assets/gridtile.png (from https://trax.acrothemes.com/bootstrap-v5/css/revolution/settings.css)
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/assets/gridtile_white.png (from https://trax.acrothemes.com/bootstrap-v5/css/revolution/settings.css)
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/assets/gridtile_3x3.png (from https://trax.acrothemes.com/bootstrap-v5/css/revolution/settings.css)
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/assets/gridtile_3x3_white.png (from https://trax.acrothemes.com/bootstrap-v5/css/revolution/settings.css)
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/assets/coloredbg.png (from https://trax.acrothemes.com/bootstrap-v5/css/revolution/settings.css)
+17:19:51	Error: 	"Not Found" (404) at link https://trax.acrothemes.com/bootstrap-v5/css/assets/loader.gif (from https://trax.acrothemes.com/bootstrap-v5/css/revolution/settings.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 275 links scanned, 266 files written (26948171 bytes overall) [23000161 bytes received at 190083 bytes/sec], 5139856 bytes transferred using HTTP compression in 83 files, ratio 21%, 68.7 requests per connection
+(8 errors, 5 warnings, 0 messages)
